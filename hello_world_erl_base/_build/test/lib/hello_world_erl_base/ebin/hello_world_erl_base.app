@@ -1,0 +1,11 @@
+{application,hello_world_erl_base,
+             [{description,"An OTP application"},
+              {vsn,"0.1.0"},
+              {registered,[]},
+              {mod,{hello_world_erl_base_app,[]}},
+              {applications,[kernel,stdlib]},
+              {env,[]},
+              {modules,[hello_world_erl_base,hello_world_erl_base_app,
+                        hello_world_erl_base_sup]},
+              {licenses,["Apache 2.0"]},
+              {links,[]}]}.

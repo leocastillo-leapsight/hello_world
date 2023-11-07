@@ -1,0 +1,6 @@
+{release,{"hello_world_release","1.0.0"},
+         {erts,"14.1.1"},
+         [{kernel,"9.1"},
+          {stdlib,"5.1.1"},
+          {hello_world_erl_base,"0.1.0"},
+          {sasl,"4.2.1"}]}. 
